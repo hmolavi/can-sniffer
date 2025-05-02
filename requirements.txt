@@ -1,4 +1,0 @@
-PySerial
-PyQt5
-PyQt5Designer
-qtmodern
