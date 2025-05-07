@@ -4,9 +4,16 @@
 <br>
 <em>Reading live data from the CAN Bus using the hardware attachment and PyQt GUI from the laptop</em>  
 <br><br>
+
 <img src="https://github.com/user-attachments/assets/a224c216-fddd-44b4-8bc1-b42e989e5df1" width="900"/>
 <br>
 <em>OBD2 Port on the left, Arduino Uno in the middle and mcp2515 module on the right</em>
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/22d8be4c-3309-4c7f-9ecb-5262fa9ef614" width="900"/>
+<br>
+<em>PyQt GUI when first launched</em>
+
 </p>
 
 ## Getting Started
