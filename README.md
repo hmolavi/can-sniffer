@@ -12,7 +12,7 @@
 
 <img src="https://github.com/user-attachments/assets/22d8be4c-3309-4c7f-9ecb-5262fa9ef614" width="900"/>
 <br>
-<em>PyQt GUI when first launched</em>
+<em>CanSniffer GUI when first launched</em>
 
 </p>
 
